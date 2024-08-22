@@ -37,8 +37,6 @@
 	<link rel="icon" href="images/logo_astrea_sin_fondo.png">
 	<link rel="shortcut icon" type="image/x-icon" href="images/logo_astrea_sin_fondo.png" />
 
-	<!-- CSS
-	================================================== -->
 	<!-- bootstrap.min css -->
 	<link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	
@@ -67,6 +65,50 @@
 				.catch(error => console.error('Error al cargar el encabezado:', error));
 		});
 	</script>
+
+
+	<div class="hero-slider">
+		<div class="slider-item th-fullpage hero-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<h1 data-duration-in=".5" data-animation-in="fadeInUp" data-delay-in=".3">Asociación de Jóvenes Investigadores de Derecho Espacial</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="module" src="js/zero-md.min.js"></script>
+  	<zero-md  class="custom_md" src="https://raw.githubusercontent.com/pabllopf/ASTREA/master/documents/home.md"></zero-md>
+   
+
+	<footer class="text-center text-white footer_custom">
+		<div id="footer"></div>
+	</footer>
+	<!-- Load footer -->
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			fetch('footer.html')
+				.then(response => response.text())
+				.then(data => {
+					document.getElementById('footer').innerHTML = data;
+				})
+				.catch(error => console.error('Error al cargar el encabezado:', error));
+		});
+	</script>
+
+	<!-- Main jQuery -->
+    <script src="plugins/jquery/jquery.min.js"></script>
+    
+    <!-- Bootstrap4 -->
+    <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Owl Carousel -->
+    <script src="plugins/slick/slick.min.js"></script>
+    
+    <!-- Custom js -->
+    <script src="js/script.js"></script>
 
 </body>
 
