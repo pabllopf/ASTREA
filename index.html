@@ -52,7 +52,21 @@
 
 <body id="body">
 
-	<h1>Hola Mundo</h1>
+	<!--Header-->
+	<header class="navigation fixed-top">
+		<div id="header"></div>
+	</header>
+	<!-- Load Header -->
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			fetch('header.html')
+				.then(response => response.text())
+				.then(data => {
+					document.getElementById('header').innerHTML = data;
+				})
+				.catch(error => console.error('Error al cargar el encabezado:', error));
+		});
+	</script>
 
 </body>
 
