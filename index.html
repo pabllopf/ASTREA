@@ -15,27 +15,27 @@
 	<meta http-equiv="Content-Security-Policy" content="default-src  'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' * ; img-src data: * ">
 	
 	<!-- SEO Meta Tags -->
-	<meta name="author" content="Pablo Perdomo Falcón">
-	<meta name="description" content="Alis Engine | Develop the videogames of your dreams.">
+	<meta name="author" content="Pablo Perdomo Falcón y Roser Almenar Rodríguez">
+	<meta name="description" content="ASTREA | Asociación de Jóvenes Investigadores de Derecho Espacial">
 
 	<!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
-	<meta property="og:site_name" content="alisengine.com" /> <!-- website name -->
-	<meta property="og:site" content="https://www.alisengine.com/" /> <!-- website link -->
-	<meta property="og:title" content="Alis"/> <!-- title shown in the actual shared post -->
-	<meta property="og:description" content="Alis Engine | Develop the videogames of your dreams." /> <!-- description shown in the actual shared post -->
-	<meta property="og:image" content="images/alis_banner_1.jpg" /> <!-- image link, make sure it's jpg -->
-	<meta property="og:url" content="https://www.alisengine.com/" /> <!-- where do you want your post to link to -->
+	<meta property="og:site_name" content="astrea-space.org" /> <!-- website name -->
+	<meta property="og:site" content="https://www.astrea-space.org/" /> <!-- website link -->
+	<meta property="og:title" content="astrea-space"/> <!-- title shown in the actual shared post -->
+	<meta property="og:description" content="ASTREA | Asociación de Jóvenes Investigadores de Derecho Espacial" /> <!-- description shown in the actual shared post -->
+	<meta property="og:image" content="images/logo_astrea_sin_fondo.png" /> <!-- image link, make sure it's jpg -->
+	<meta property="og:url" content="https://www.astrea-space.org/" /> <!-- where do you want your post to link to -->
 	<meta name="twitter:card" content="summary_large_image"> <!-- to have large image post format in Twitter -->
 
 	<!-- Webpage Title -->
-	<title>Alis Engine | Develop the videogames of your dreams. </title>
+	<title>ASTREA | Asociación de Jóvenes Investigadores de Derecho Espacial</title>
 
 	<!-- canonical  -->
-	<link rel=»canonical» href=»https://www.alisengine.com» />
+	<link rel=»canonical» href=»https://www.astrea-space.org» />
 
 	<!-- Favicon  -->
-	<link rel="icon" href="images/logo_final_redondo.png">
-	<link rel="shortcut icon" type="image/x-icon" href="images/logo_final_redondo.png" />
+	<link rel="icon" href="images/logo_astrea_sin_fondo.png">
+	<link rel="shortcut icon" type="image/x-icon" href="images/logo_astrea_sin_fondo.png" />
 
 	<!-- CSS
 	================================================== -->
@@ -52,70 +52,8 @@
 
 <body id="body">
 
-	<!--Header-->
-	<header class="navigation fixed-top">
-		<div id="header"></div>
-	</header>
-	<!-- Load Header -->
-	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			fetch('header.html')
-				.then(response => response.text())
-				.then(data => {
-					document.getElementById('header').innerHTML = data;
-				})
-				.catch(error => console.error('Error al cargar el encabezado:', error));
-		});
-	</script>
+	<h1>Hola Mundo</h1>
 
+</body>
 
-	<div class="hero-slider">
-		<div class="slider-item th-fullpage hero-area">
-			<video autoplay="autoplay" loop muted playsInline id="myVideo">
-				<source src="./videos/video_intro.mp4" type="video/mp4">
-				<source src="./videos/video_intro.webm" type="video/webm">
-			</video>
-
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<h1 data-duration-in=".5" data-animation-in="fadeInUp" data-delay-in=".3">Develop the videogames of your dreams</h1>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<script type="module" src="js/zero-md.min.js"></script>
-  	<zero-md  class="custom_md" src="https://raw.githubusercontent.com/pabllopf/Alis/master/readme.md"></zero-md>
-   
-
-	<footer class="text-center text-white footer_custom">
-		<div id="footer"></div>
-	</footer>
-	<!-- Load footer -->
-	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			fetch('footer.html')
-				.then(response => response.text())
-				.then(data => {
-					document.getElementById('footer').innerHTML = data;
-				})
-				.catch(error => console.error('Error al cargar el encabezado:', error));
-		});
-	</script>
-
-	<!-- Main jQuery -->
-    <script src="plugins/jquery/jquery.min.js"></script>
-    
-    <!-- Bootstrap4 -->
-    <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Owl Carousel -->
-    <script src="plugins/slick/slick.min.js"></script>
-    
-    <!-- Custom js -->
-    <script src="js/script.js"></script>
-
-  </body>
-  </html>
+</html>
