@@ -465,7 +465,7 @@ a:focus, a:hover {
 .navigation .dropdown:hover .dropdown-menu {
   visibility: visible;
   opacity: 1;
-  background-color: rgb(32, 35, 55);
+  background-color: rgba(32, 35, 55, 0);
   -webkit-transform: scaleY(1);
           transform: scaleY(1);
   
@@ -503,7 +503,7 @@ a:focus, a:hover {
 .navigation .dropdown-menu.show {
   visibility: visible;
   opacity: 1;
-  background: rgb(32, 35, 55);
+  background: rgba(32, 35, 55, 0);
   -webkit-transform: scaleY(1);
           transform: scaleY(1);
           
@@ -529,7 +529,7 @@ a:focus, a:hover {
   padding: 10px;
   text-align: left;
   padding-left: 1.5em;
-  background: rgb(32, 35, 55);
+  background: rgba(32, 35, 55, 0);
 }
 
 .navigation .dropdown-item:hover {
@@ -549,7 +549,7 @@ a:focus, a:hover {
 @media (max-width: 991px) {
   .navigation {
     box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
-    background: rgb(32, 35, 55);
+    background: rgba(32, 35, 55, 0);
   }
   .navigation .navbar-light .navbar-nav .nav-item .nav-link {
     color: #000;
@@ -568,7 +568,7 @@ a:focus, a:hover {
 
 .sticky-header {
   box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
-  background: rgb(32, 35, 55);
+  background: rgba(32, 35, 55, 0);
 }
 
 .sticky-header .navbar-light .navbar-nav .nav-item .nav-link {
@@ -2050,11 +2050,11 @@ a:focus, a:hover {
   Footer section
 ==================================================================*/
 .footer_custom {
-  background-color: rgb(32, 35, 55);
+  background-color: rgba(32, 35, 55, 0);
 }
 
 .bg-dark{
-  background-color: rgb(32, 35, 55);
+  background-color: rgba(32, 35, 55, 0);
 }
 
 .top-footer h3 {
