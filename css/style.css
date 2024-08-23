@@ -392,8 +392,8 @@ a:focus, a:hover {
 }
 
 .logo img{
-  width: 45px;
-  height: 45px;
+  width: 150px;
+  height: 150px;
 }
 
 .single-page-header {
@@ -427,7 +427,7 @@ a:focus, a:hover {
 
 .navigation .logo-default {
   display: none;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 
 
