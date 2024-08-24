@@ -1,4 +1,4 @@
-# La Asociación de Jóvenes Investigadores de Derecho Espacial (ASTREA) tiene como finalidad promover y difundir el estudio del Derecho espacial en España, Portugal e Iberoamérica. 
+# La Asociación de Jóvenes Investigadores de Derecho Espacial (ASTREA) tiene como finalidad promover y difundir el estudio del Derecho espacial en España, Portugal y Latinoamérica. 
 
 ASTREA actúa como una plataforma para el encuentro e intercambio de ideas entre investigadores nóveles de esta disciplina, desde una perspectiva tanto pública como privada. Nuestro propósito es elevar la voz de los jóvenes iberoamericanos en la industria espacial, facilitando el diálogo y la puesta en común de conocimientos en la materia.
 
