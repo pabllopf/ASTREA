@@ -568,12 +568,17 @@ a:focus, a:hover {
 
 .sticky-header {
   box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
-  background: rgba(255, 255, 255, 0);
+  
 }
 
 .sticky-header .navbar-light .navbar-nav .nav-item .nav-link {
   color: #000;
 }
+
+.sticky-header .navbar-light {
+  background-color: white;
+}
+
 
 .sticky-header .logo-white {
   display: none;
@@ -2588,16 +2593,26 @@ a:hover.back-to-top {
   }
 }
 
-
-
 .custom_md{
-  padding: 5em 2em;
+  padding: 11em 2em;
 }
 
 @media (min-width: 768px) { 
   
   .custom_md{
-    padding: 5em 4em;
+    padding: 11em 4em;
+  }
+}
+
+
+.custom_md_index{
+  padding: 3em 2em;
+}
+
+@media (min-width: 768px) { 
+  
+  .custom_md_index{
+    padding: 3em 4em;
   }
 }
 
