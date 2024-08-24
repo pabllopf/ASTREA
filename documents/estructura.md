@@ -1,6 +1,8 @@
 # Estructura
 
-![Photo](https://github.com/user-attachments/assets/cb225823-9da5-4f72-aa26-9d2e219e7c64)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/cb225823-9da5-4f72-aa26-9d2e219e7c64" alt="Roser Almenar Rodriguez" style="max-width: 50%; height: auto;">
+</div>
 
 Roser Almenar Rodríguez
 
