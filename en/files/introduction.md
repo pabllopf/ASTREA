@@ -1,5 +1,5 @@
-# La Asociación de Jóvenes Investigadores de Derecho Espacial (ASTREA) tiene como finalidad promover y difundir el estudio del Derecho espacial en España, Portugal y Latinoamérica. 
+# The Association of Junior Researchers in Space Law (ASTREA) aims to promote and disseminate the study of space law in Spain, Portugal and Latin American countries. 
 
-ASTREA actúa como una plataforma para el encuentro e intercambio de ideas entre investigadores nóveles de esta disciplina, desde una perspectiva tanto pública como privada. Nuestro propósito es elevar la voz de los jóvenes iberoamericanos en la industria espacial, facilitando el diálogo y la puesta en común de conocimientos en la materia.
+ASTREA acts as a platform for the networking and exchange of ideas between young researchers in this discipline, from both a public and private perspective. Our purpose is to raise the voice of youth in the Ibero-American space industry, facilitating dialogue and the sharing of knowledge in the field.
 
-Constituida el ?, ASTREA es una organización no gubernamental (ONG), sin ánimo de lucro, que se rige por sus Estatutos y por la Ley Orgánica española 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, así como por las disposiciones vigentes en cada momento. 
+Created on ?, ASTREA is a non-profit non-governmental organization (NGO), governed by its Bylaws and by the Spanish Organic Act 1/2002, of March 22, 2002, regulating the Right of Association, as well as by the provisions in force at any given time. 
