@@ -1,4 +1,4 @@
-# Organigrama
+# Organograma
 
 | ![Roser Almenar Rodríguez](https://github.com/user-attachments/assets/cb225823-9da5-4f72-aa26-9d2e219e7c64) | ![Leonardo Alberto López Marcos](https://github.com/user-attachments/assets/a80425e9-5e92-4cc2-abbf-ba3d0e85ca48) |
 | ------------------------------------------------------------ | ------------------------------------------------------------- |
